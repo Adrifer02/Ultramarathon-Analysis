@@ -8,7 +8,7 @@ The performance of runners is examined based on age and gender, and various stat
 
 ## Installation
 
-1. Download the csv file here: (https://drive.google.com/file/d/1a3-G87z1YXn7rhbTK9yre-VUKEGKjAhw/view?usp=sharing)
+1. Download the csv file here: https://drive.google.com/file/d/1a3-G87z1YXn7rhbTK9yre-VUKEGKjAhw/view?usp=sharing
 2. Clone this repository.
 3. Make sure to have `pandas`, `seaborn`, and `matplotlib` installed:
    ```bash
